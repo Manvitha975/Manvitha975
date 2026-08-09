@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="https://github.com/Manvitha975">GitHub</a>
+  <a href="www.linkedin.com/in/manvitha-ankam-250897375">LinkedIn</a>
 </p>
 
 ---
