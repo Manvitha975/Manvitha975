@@ -1,124 +1,89 @@
-# Hi 👋, I'm Manvitha Ankam
+<h1 align="center">Hi 👋, I'm Manvitha Ankam</h1>
 
-### AI/ML Engineer | Data Engineering Enthusiast
+<h3 align="center">AI/ML Engineer & Data Engineering Enthusiast</h3>
 
-I'm a Dual Degree student at IIT Madras passionate about building
-intelligent systems, machine learning applications, and scalable
-data-driven solutions.
-
----
-
-## 🧠 AI / Machine Learning
-
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents & Multi-Agent Systems
-- Model Evaluation & Optimization
-- Feature Engineering
-- Exploratory Data Analysis (EDA)
-
----
-
-## 📊 Data Engineering
-
-- Data Processing & ETL Pipelines
-- Data Cleaning & Transformation
-- Data Warehousing
-- SQL & Database Management
-- Data Pipelines
-- API Data Integration
-- Cloud Data Engineering
-- Vector Databases
-- Data Analysis & Visualization
-
----
-
-## 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sql,matlab,html,java" />
+<p align="center">
+  Passionate about building intelligent systems, machine learning applications,
+  and data-driven solutions.
 </p>
 
-- Python
-- SQL
-- MATLAB
-- HTML
-- Java
+---
+
+### 🌱 I'm currently learning
+
+- 🤖 Generative AI, LLMs & AI Agents
+- 📊 Data Engineering & Data Pipelines
+- ☁️ Cloud & MLOps
+- ⚡ Backend Development with FastAPI
+
+### 💬 Ask me about
+
+- 🧠 Machine Learning & Deep Learning
+- 📈 Data Analysis & Data Engineering
+- 🤖 Generative AI & RAG
+- 🔗 AI Agents & LLM Applications
+- 🐍 Python & SQL
+
+### ⚡ What I enjoy building
+
+- AI-powered applications
+- Machine Learning pipelines
+- RAG-based systems
+- AI Agent workflows
+- Data processing & analytics pipelines
 
 ---
 
-## 🛠️ AI / ML Tools & Frameworks
+## 🔗 Connect with me
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+<p align="left">
+<a href="www.linkedin.com/in/manvitha-ankam-250897375" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 </p>
 
-- TensorFlow
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
 ---
 
-## 🤖 Generative AI & AI Engineering
+## 🛠️ Languages & Tools
 
-- FastAPI
-- Pydantic
-- LangChain
-- LLM APIs
-- Prompt Engineering
-- RAG
-- Qdrant
-- FAISS
-- AI Agent Workflows
-- API Integration
+### 👩‍💻 Languages
 
----
-
-## 🗄️ Databases & Data Tools
-
-- PostgreSQL
-- MySQL
-- MongoDB
-- BigQuery
-- Qdrant
-- FAISS
-
----
-
-## ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp,aws,docker,git,github" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,sql,matlab" height="45"/>
 </p>
 
-- Google Cloud Platform
-- Vertex AI
-- BigQuery
-- AWS
-- Docker
-- Git
-- GitHub
+### 🧠 AI / Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" height="45"/>
+</p>
+
+### 🤖 Generative AI & AI Engineering
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
+</p>
+
+`LLMs` `RAG` `AI Agents` `LangChain` `Pydantic` `Qdrant` `FAISS`
+
+### 📊 Data Engineering & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="45"/>
+</p>
+
+`Pandas` `NumPy` `BigQuery` `ETL` `Data Pipelines`
+
+
+
+### 📈 Data Analysis & Visualization
+
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn`
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Technologies I Work With
 
-- Advanced Data Engineering
-- LLM & RAG Systems
-- AI Agent Architecture
-- Scalable ML Systems
-- MLOps
-- Cloud-based Data Pipelines
-
----
-
-## 📫 Connect With Me
-
-[LinkedIn](www.linkedin.com/in/manvitha-ankam-250897375) 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,docker,gcp,aws,mysql,postgres,mongodb,git,github,vscode" />
+</p>
